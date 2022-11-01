@@ -1,0 +1,14 @@
+{
+  "name": "express-vercel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:RossiniMaximo/express-vercel.git",
+  "author": "Maximo <maximorossini2016@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "dev" : "node index.js" 
+  }
+}
