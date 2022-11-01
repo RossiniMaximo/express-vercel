@@ -1,6 +1,6 @@
 const express = require("express");
 
-const product = require("./api/product");
+const product = require("./product");
 
 const app = express();
 
